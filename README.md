@@ -82,13 +82,22 @@ The AI model can classify the following skin categories:
 
 ## 📷 Project Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Home Interface
+![Home](images/Home.png)
+
+### 📸 Uploading Images
+![Chatbot](images/Uploading_Image.png)
+
+### 💬 Skin Disease Prediction
+![Prediction](images/Prediction.png)
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-> Demo video will be added soon.
+[![Watch Demo](images/Home.png)](https://youtu.be/6odxWhmZwxY)
+
+▶️ Click the image above to watch the full demo video.
 
 ---
 
@@ -98,7 +107,6 @@ The AI model can classify the following skin categories:
 - Add more skin disease categories
 - Deploy on cloud platforms
 - Mobile application support
-- Real-time camera diagnosis
 
 ---
 
