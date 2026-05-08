@@ -1,45 +1,107 @@
-# 🧠 Self Skin Disease Diagnosis AI
-This project is an all-in-one AI-powered Skin Disease Diagnosis System that allows users to:
+# 🩺 Self Skin Disease Diagnosis AI
 
-Diagnose common skin diseases from hand images
+An AI-powered healthcare assistant designed to help users diagnose common skin conditions using Computer Vision, Deep Learning, and Voice Interaction technologies through an interactive Streamlit web application.
 
-Chat with a medical assistant for more information
+---
 
-Use voice commands and responses for hands-free interaction
+## 🔬 Supported Skin Conditions
 
-Access everything through a simple Streamlit web app
+The AI model can classify the following skin categories:
 
-# 🔬 Supported Skin Conditions
-The model can classify 4 skin categories:
+- Warts
+- Tinea / Ringworm
+- Nail Fungus
+- Normal Skin (No visible infection)
 
-Warts
+---
 
-Tinea / Ringworm
+## 🚀 Features
 
-Nail Fungus
+### 📸 Image-Based Disease Classification
+- Deep Learning CNN model for skin disease prediction
+- Image-based diagnosis using uploaded hand images
+- Designed to work on diverse skin tones and real-world image conditions
+- Real-time prediction and classification
 
-Normal (No visible infection)
+---
 
-# 🚀 Features
-📸 Image-Based Disease Classification
-A trained CNN model predicts the skin condition from uploaded hand images.
+### 💬 Medical Chatbot Assistant
+- AI-powered chatbot for basic medical interaction
+- Provides information about symptoms and precautions
+- Helps users understand possible skin conditions
+- Suggests when professional medical consultation may be required
 
-Achieves high accuracy on diverse skin tones and real-world images.
+---
 
-🗨 Medical Chatbot
-A built-in chatbot simulates a basic medical consultation.
+### 🗣️ Voice Interaction System
+- Speech-to-Text interaction using microphone input
+- Text-to-Speech responses for hands-free usage
+- Built using SpeechRecognition and pyttsx3 libraries
 
-Can explain symptoms, precautions, and when to consult a real doctor.
+---
 
-🗣 Voice Interaction
-Speech-to-Text: Speak to the chatbot using your microphone.
+### 🌐 Streamlit Web Application
+- Interactive and user-friendly web interface
+- Image upload and prediction display
+- Chatbot integration
+- Voice interaction support
+- Accessible through desktop and mobile browsers
 
-Text-to-Speech: The chatbot can speak its replies out loud.
+---
 
-Powered by SpeechRecognition and pyttsx3 libraries.
+## 🛠️ Technologies Used
 
-🌐 Web Interface (via Streamlit)
-User-friendly web interface with image upload, voice chat, and diagnosis display.
+- Python
+- Deep Learning
+- CNN
+- OpenCV
+- Streamlit
+- SpeechRecognition
+- pyttsx3
+- Computer Vision
 
-Easy to use on desktop or mobile browser.
- 
+---
+
+## 📊 Model Performance
+
+- ✅ Classification Accuracy: 81%
+- 📈 Tested on real-world skin image samples
+- 🧪 Evaluated using validation and testing datasets
+
+---
+
+## 🧠 System Workflow
+
+1. User uploads a hand image
+2. AI model analyzes the image
+3. Disease prediction is generated
+4. Chatbot provides medical guidance
+5. Voice interaction enables hands-free communication
+
+---
+
+## 📷 Project Screenshots
+
+> Screenshots will be added soon.
+
+---
+
+## 🎥 Demo
+
+> Demo video will be added soon.
+
+---
+
+## 🔮 Future Improvements
+
+- Improve model accuracy
+- Add more skin disease categories
+- Deploy on cloud platforms
+- Mobile application support
+- Real-time camera diagnosis
+
+---
+
+## 📌 Project Status
+
+✅ Actively improved and maintained.
