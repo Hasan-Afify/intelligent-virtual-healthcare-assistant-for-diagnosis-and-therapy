@@ -106,6 +106,12 @@ The AI model can classify the following skin categories:
 
 ---
 
+## 🔗 Additional Project Showcase
+
+[![LinkedIn](https://img.shields.io/badge/View-LinkedIn_Project_Showcase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/hasan-afify-ba3385325_ai-deeplearning-computervision-activity-7342925253238554624-wuS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIaZGsBJd2M8gVbEJF__EdjV6heu7JWyRg)
+
+---
+
 ## 🔮 Future Improvements
 
 - Improve model accuracy
