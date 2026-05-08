@@ -1,5 +1,10 @@
 # 🩺 Self Skin Disease Diagnosis AI
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 An AI-powered healthcare assistant designed to help users diagnose common skin conditions using Computer Vision, Deep Learning, and Voice Interaction technologies through an interactive Streamlit web application.
 
 ---
